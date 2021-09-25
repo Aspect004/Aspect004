@@ -1,5 +1,5 @@
 <div align='center'>
-<p align='center'><img src="https://i.ibb.co/xCnqXtq/filename.png" alt="Aspect004" border="0"></p>
+<p align='center'><img src="https://i.ibb.co/C6K6zwx/1419340781-000-2.png" alt="1419340781-000-2" border="0"></p>
 
 
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
@@ -9,7 +9,6 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anubhav.fx004@gmail.com)](mailto:anubhav.fx004@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Aspect004)](https://github.com/Aspect004)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aspect004)
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852822960058138675)](https://discord.com/users/852822960058138675)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheCypherOP&show_icons=true&hide_border=true">
