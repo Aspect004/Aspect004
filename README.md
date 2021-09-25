@@ -1,8 +1,7 @@
 <div align='center'>
 <p align='center'><img src="https://i.ibb.co/C6K6zwx/1419340781-000-2.png" alt="1419340781-000-2" border="0"></p>
 
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852822960058138675)](https://discord.com/users/852822960058138675)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852822960058138675?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852822960058138675)
 
     
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
