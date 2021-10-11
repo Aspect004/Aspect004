@@ -1,5 +1,4 @@
-<div align='center'>
-<p align='center'><img src="https://i.ibb.co/C6K6zwx/1419340781-000-2.png" alt="1419340781-000-2" border="29"></p>
+<div align = "center"> <img src = "https://discord.c99.nl/widget/theme-1/852822960058138675.png"> </div>
 
     
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
@@ -27,3 +26,8 @@
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     </div>
+
+<br>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Wumpuspro&theme=dracula"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Wumpuspro&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wumpuspro&theme=tokyonight&hide=batchfile">
+<br>
