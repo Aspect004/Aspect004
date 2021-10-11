@@ -10,7 +10,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Aspect004)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Aspect004&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ItzAspect&show_icons=true&hide_border=true">
 
 ## 🧐 About
 
@@ -28,6 +28,6 @@
     </div>
 
 <br>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Wumpuspro&theme=dracula"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Wumpuspro&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wumpuspro&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ItzAspect&theme=dracula"></div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Wumpuspro&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzAspect&theme=tokyonight&hide=batchfile">
 <br>
